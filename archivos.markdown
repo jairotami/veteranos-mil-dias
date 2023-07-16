@@ -8,7 +8,7 @@ Aquí se ecuentran para su descarga el código XML, trancripción en texto plano
 
 ### Expediente de Alfredo A. Pinzón
 
-[*XML-TEI*]()  [*TXT*]() [*PDF*](/_downloads/516_970_alfredo_pinzon.pdf)
+[*XML-TEI*]()  [*TXT*]() [*PDF*](/_downloads/516_970_alfredo_pinzon.pdf){:download="516_970_alfredo_pinzon.pdf"}
 
 
 
