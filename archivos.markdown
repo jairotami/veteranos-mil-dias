@@ -10,7 +10,7 @@ Aquí se ecuentran para su descarga el código XML, trancripción en texto plano
 
 ### Expediente de Alfredo A. Pinzón
 
-[*XML-TEI*]()  [*TXT*]() [*PDF*](https://drive.google.com/file/d/1do4hFTd9WH1DIrydCfYptiaGN85f4XwE/view?usp=drive_link)
+[*XML-TEI*]()  [*TXT*](https://github.com/jairotami/veteranos-mil-dias/blob/gh-pages/_downloads/a_pinzon_transcripci%C3%B3n.txt) [*PDF*](https://drive.google.com/file/d/1do4hFTd9WH1DIrydCfYptiaGN85f4XwE/view?usp=drive_link)
 
 
 
