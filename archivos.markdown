@@ -8,9 +8,7 @@ Aquí se ecuentran para su descarga el código XML, trancripción en texto plano
 
 ### Expediente de Alfredo A. Pinzón
 
-![portada](C:\rep_tfm\veteranos-mil-dias\_objects\2_Portada_2.jpg)
-
-[*XML-TEI*]()  [*TXT*]() [*PDF*]()
+[*XML-TEI*]()  [*TXT*]() [*PDF*](https://github.com/jairotami/veteranos-mil-dias/blob/gh-pages/_downloads/516_970_alfredo_pinzon.pdf)
 
 
 
