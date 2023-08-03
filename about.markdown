@@ -8,7 +8,7 @@ por medio de la edición digital y la codificiación de textos. El objetivo, ade
 es enriquecerla y convertirla en una herramienta de trabajo e investigación a través de la cual se puedan proponer nuevas
 preguntas y lecturas.     
 
-Para ello, el sitio pone a disposición para su [*descarga*](http://localhost:4000/veteranos-mil-dias/archivos/) algunos de los expedientes en los siguientes formatos:
+Para ello, el sitio pone a disposición para su [*descarga*](https://jairotami.github.io/veteranos-mil-dias/archivos/) algunos de los expedientes en los siguientes formatos:
 
 1. Codificación en XML-TEI.
 2. Transcripción en texto plano.
@@ -30,7 +30,7 @@ palabras que aparecen en renglón aparte y unidas por un guion (-), se unió la 
 
 
 
-[^1]: Proyecto realizado en el marco del Máster en Humanidades Digitales de la Universidad Internacional de la Rioja UNIR
+[^1]: Proyecto realizado en el marco del Máster en Humanidades Digitales de la Universidad Internacional de la Rioja UNIR. **Este sitio es un protitpo y no constituye la versión final del respositorio**
 
 
 
