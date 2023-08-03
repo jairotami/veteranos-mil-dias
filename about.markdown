@@ -30,7 +30,7 @@ palabras que aparecen en renglón aparte y unidas por un guion (-), se unió la 
 
 
 
-[^1]: Proyecto realizado en el marco del Máster en Humanidades Digitales de la Universidad Internacional de la Rioja UNIR. **Este sitio es un protitpo y no constituye la versión final del respositorio**
+[^1]: Proyecto realizado en el marco del Máster en Humanidades Digitales de la Universidad Internacional de la Rioja UNIR. **Este sitio es un prototipo y no constituye la versión final del respositorio**
 
 
 
