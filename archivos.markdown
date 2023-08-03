@@ -9,7 +9,7 @@ Aquí se ecuentran para su descarga el código XML, trancripción en texto plano
 
 ### Expediente de Alfredo A. Pinzón
 
-[*XML-TEI*]()  [*TXT*](https://drive.google.com/file/d/1OUN_Bpgx6yjYnlGbQv4p66NaK56BfgtK/view?usp=sharing) [*PDF*](https://drive.google.com/file/d/1do4hFTd9WH1DIrydCfYptiaGN85f4XwE/view?usp=sharing)
+[*XML-TEI*](https://drive.google.com/file/d/1xL6xm9I4X2my-hBjYmDq9FU_HdWkoyqb/view?usp=sharing)  [*TXT*](https://drive.google.com/file/d/1OUN_Bpgx6yjYnlGbQv4p66NaK56BfgtK/view?usp=sharing) [*PDF*](https://drive.google.com/file/d/1do4hFTd9WH1DIrydCfYptiaGN85f4XwE/view?usp=sharing)
 
 
 
